@@ -1,0 +1,28 @@
+BAHASA PEMROGRAMAN YANG DIREKOMENDASIKAN
+
+1. Python
+   - Mudah dipelajari untuk pemula
+   - Sintaks yang sederhana
+   - Banyak digunakan untuk AI dan Data Science
+
+2. JavaScript
+   - Bahasa utama untuk pengembangan web
+   - Banyak lowongan kerja tersedia
+   - Framework yang beragam
+
+3. Java
+   - Bahasa yang stabil dan mature
+   - Banyak digunakan untuk aplikasi enterprise
+   - Cocok untuk pengembangan Android
+
+4. PHP
+   - Populer untuk pengembangan website
+   - Banyak digunakan di Indonesia
+   - Mudah untuk dipelajari
+
+5. Golang
+   - Performa tinggi
+   - Didukung oleh Google
+   - Cocok untuk backend development
+
+Catatan: Pilihan bahasa pemrograman sebaiknya disesuaikan dengan tujuan dan minat Anda, Tuan.

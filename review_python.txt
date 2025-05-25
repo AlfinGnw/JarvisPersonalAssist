@@ -1,0 +1,15 @@
+ULASAN TENTANG PYTHON
+
+Kelebihan:
+- Sintaksnya sangat mudah dibaca, seperti membaca dongeng sebelum tidur
+- Sangat populer di bidang AI dan Data Science
+- Komunitas yang besar dan helpful
+- Banyak library yang siap pakai
+
+Kekurangan:
+- Agak lambat dibanding bahasa kompilasi
+- Manajemen memori tidak sefleksibel C++
+- Kadang terlalu banyak cara untuk menyelesaikan satu masalah
+
+Kesimpulan:
+Python seperti pisau Swiss Army dalam dunia programming - tidak sempurna untuk segala hal, tapi cukup bagus untuk hampir semua hal.
